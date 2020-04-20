@@ -51,9 +51,9 @@ int main()
 			}
 		}
 	}
-	for (i = 0; 1 < 23; i++) {
+	
 	printf("Codigo HDB3 - Atividade Pratica \n")
-	}
+	
 
 	for (i = 0; i < 23; i++) { // imprime a copia do sinal de entrda para facilitar a comparação com o sinal tratado
 		printf("%c ", exemplo[i]);
